@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(116, 43, 43);
+}
+
+.Rome__Empire {
+    background-image: url("images/Флаг Империи.jpg");
+    background-size: cover;
+    background-position: 70%;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 8em;
+    line-height: 1000px;
+    color: rgb(252, 135, 39);
+    text-shadow: 3px 3px 3px black;
+}
+
+h1 {
+    color: wheat;
+}
+
+.histori__Rome {
+    margin-top: 2em;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto 100px auto;
+}
+
+.text {
+    color: wheat;
+    font-size: 1.5em;
+    text-align: justify;
+    margin: 1.2em 0;
+}
+
+.images {
+    max-width: 400px;
+    float: right;
+    margin-left: 15px;
+}
